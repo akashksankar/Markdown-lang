@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=600&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=true&width=600&height=100&lines=Securing+Digital+Frontiers;Crafting+Elegant+Interfaces;Engineering+Tomorrow's+Solutions" alt="Typing SVG" />
 </p>
-<img src="assets/Picsart_25-11-16_21-17-46-047.png" width="150px" />
+<img src="assets/1000391141-unscreen.gif" width="150px" />
 <!-- Vintage Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
